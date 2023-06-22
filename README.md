@@ -1,5 +1,5 @@
 <h1 align="center">This is a Real-State Project Used languages are Codeigniter3 and Raw PHP</h1>
-<p align="left"> Put the <strong>realstate</strong> folder in your htdocs and open the folder and then run the software using the CLI command <strong>npm start</strong> </p>
+<p align="left"> Put the <strong>realstate</strong> folder in your htdocs and run the localhost<strong>npm start</strong> </p>
 <h1 align="center">Hi 👋,My name is Gazi Nasim Uddin</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
