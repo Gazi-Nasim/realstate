@@ -38,7 +38,10 @@
                         <!-- /.col -->
                     </div>
                 </form>
-
+<div>
+    <p>User Name: admin@gmail.com</p>
+    <p>Password : 12345</p>
+</div>
 
                 <!-- /.social-auth-links -->
             </div>

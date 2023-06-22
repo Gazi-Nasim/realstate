@@ -1,5 +1,5 @@
 <h1 align="center">This is a Real-State Project Used languages are Codeigniter3 and Raw PHP</h1>
-<p align="left"> Put the <strong>realstate</strong> folder in the codeigniter3Projects folder in your htdocs and run the localhost to enter the Admin Panel, type admin after http://localhost/codeigniter3Projects/realstate/.</p>
+<p align="left"> Put the <strong>realstate</strong> folder in the <strong>codeigniter3Projects</strong> folder in your htdocs and run the localhost to enter the Admin Panel, type admin after http://localhost/codeigniter3Projects/realstate/.</p>
 <h1 align="center">Hi 👋,My name is Gazi Nasim Uddin</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
