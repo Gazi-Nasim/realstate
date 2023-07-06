@@ -10,7 +10,7 @@
             <div class="card-body login-card-body">
                 <p class="login-box-msg">Sign in to start your session</p>
 
-                <form action="<?php echo base_url('index.php/AdminPanel/signin')?>" method="post">
+                <form action="<?php echo base_url('index.php/AdminPanel/signin') ?>" method="post">
                     <div class="input-group mb-3">
                         <input type="email" name="email" class="form-control" placeholder="Email" required>
                         <div class="input-group-append">
@@ -38,10 +38,10 @@
                         <!-- /.col -->
                     </div>
                 </form>
-<div>
-    <p>User Name: admin@gmail.com</p>
-    <p>Password : 12345</p>
-</div>
+                <div>
+                    <p>User Name: admin@gmail.com</p>
+                    <p>Password : 12345</p>
+                </div>
 
                 <!-- /.social-auth-links -->
             </div>

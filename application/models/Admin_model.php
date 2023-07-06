@@ -14,12 +14,14 @@ class Admin_model extends CI_Model
         $data = $this->db->get('proprty_list');
         return $data->result();
     }
+
     public function all_pordts()
     {
 
         $data = $this->db->get('products');
         return $data->result();
     }
+    
     public function list_contact()
     {
 
